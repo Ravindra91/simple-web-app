@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Hello India!
+				Hello bangalore!
 			</h1>
 		
 			<div>
